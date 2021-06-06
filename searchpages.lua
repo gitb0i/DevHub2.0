@@ -1,3 +1,4 @@
+-- Everything will be in a separate module, just dumping all the articles and data into one module for now.
 local module={
 
 	['TweenService']={
